@@ -50,3 +50,13 @@ Por exemplo _*Negrito+Itálico*_
 - [ ] Receber pagamento.
 
 
+---
+
+### Imagem:
+![Imagem]
+
+---
+
+### Link:
+
+[Link do meu GitHub](https://cljsilva.github.io)
