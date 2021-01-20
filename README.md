@@ -60,3 +60,12 @@ Por exemplo _*Negrito+Itálico*_
 ### Link:
 
 [Link do meu GitHub](https://cljsilva.github.io)
+
+***
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Claudemir | 9
+3 | Claudete | 8
+4 | Maria | 9
