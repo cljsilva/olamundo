@@ -46,7 +46,7 @@ Por exemplo _*Negrito+Itálico*_
 
 - [x] Criar Pagina principal.
 - [x] Criar pagina da Loja.
-- [] Finalizar reunião.
-- [] Receber pagamento.
+- [ ] Finalizar reunião.
+- [ ] Receber pagamento.
 
 
